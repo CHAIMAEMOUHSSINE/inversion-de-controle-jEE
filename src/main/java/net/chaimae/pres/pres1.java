@@ -1,8 +1,9 @@
 package net.chaimae.pres;
 
 import net.chaimae.dao.DaoImpl;
+import net.chaimae.ext.DaoImplV2;
 import net.chaimae.metier.MetierImpl;
-import net.chaimae.net.chaimae.ext.DaoImplV2;
+
 
 public class pres1 {
     public static void main(String[] args) {

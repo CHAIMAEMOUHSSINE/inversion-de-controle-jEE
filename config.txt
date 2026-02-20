@@ -1,0 +1,2 @@
+net.chaimae.dao.DaoImpl
+net.chaimae.metier.MetierImpl
